@@ -22,7 +22,7 @@ Setup Instructions
 
 	1.	Clone the repository:
         First, clone the repository to your local machine.
-        // git clone <repository-url>       
+        // git clone https://github.com/BaherDagher/Posts   
 
 	2.	Navigate to the project directory:
         Go to the folder where the project was cloned.
